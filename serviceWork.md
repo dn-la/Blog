@@ -1,5 +1,8 @@
 # service worker大概怎麼運作
 
+[![hackmd-github-sync-badge](https://hackmd.io/sG7PwDLoSdKrcPA9q-EAgw/badge)](https://hackmd.io/sG7PwDLoSdKrcPA9q-EAgw)
+
+
 [good ref](https://www.slideshare.net/grigs/designing-progressive-web-apps)
 
 
