@@ -1,5 +1,8 @@
 # [A2HS](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Add_to_home_screen)
 
+[![hackmd-github-sync-badge](https://hackmd.io/Ta-kvNJeSAWzPj8aw5LzjA/badge)](https://hackmd.io/Ta-kvNJeSAWzPj8aw5LzjA)
+
+
 - 使用WS的 `beforeinstallprompt` 來達成
 - 可以依照使用者選擇flow來詢問 新增/不新增shortcut ?
     - 問題: `beforeinstallprompt` 會自然發生
